@@ -113,12 +113,15 @@ body {
     aspect-ratio: 1 / 1;
     border-radius: 0.75rem 0.75rem 0 0;
     max-width: 370px;
+    margin: 100px 2.5px 0 2.5px;
+    object-fit: cover;
   }
   .content {
     border-radius: 0 0 0.75rem 0.75rem;
     max-width: 370px;
     gap: 1rem;
     padding: 2rem;
+    margin: 0 2.5px 0 2.5px;
   }
 
   .title {
