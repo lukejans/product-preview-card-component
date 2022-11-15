@@ -107,12 +107,11 @@ body {
     grid-template-columns: 1fr;
   }
   .image {
-    aspect-ratio: 1 / 1;
+    aspect-ratio: 1.5 / 1;
     border-radius: 0.75rem 0.75rem 0 0;
     max-width: 370px;
     margin: 0 2.5px 0 2.5px;
     object-fit: cover;
-    margin-top: 10rem;
   }
   .content {
     border-radius: 0 0 0.75rem 0.75rem;
