@@ -2,8 +2,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [repo](https://github.com/lukejans/product-preview-card-component)
+- Live Site URL: [github pages](https://lukejans.github.io/product-preview-card-component/)
 
 ## Author
 
