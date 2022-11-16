@@ -105,13 +105,17 @@ body {
 @media only screen and (max-width: 1000px) {
   .container {
     grid-template-columns: 1fr;
+    margin-top: 0.5rem;
+  }
+  picture {
+    max-width: 370px;
   }
   .image {
-    aspect-ratio: 1.5 / 1;
     border-radius: 0.75rem 0.75rem 0 0;
-    max-width: 370px;
+    max-width: 100%;
     margin: 0 2.5px 0 2.5px;
     object-fit: cover;
+    display: block;
   }
   .content {
     border-radius: 0 0 0.75rem 0.75rem;

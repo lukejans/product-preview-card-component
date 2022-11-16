@@ -20,12 +20,18 @@
   <body>
     <div class="wrapper">
       <main class="container">
-        <img
-          src="./images/image-product-desktop.jpg"
-          alt="Perfume"
-          aria-hidden="true"
-          class="image"
-        />
+        <picture>
+          <source
+            srcset="./images/image-product-mobile.jpg"
+            media="(max-width: 1000px)"
+          />
+          <img
+            src="./images/image-product-desktop.jpg"
+            alt="Channel Perfume"
+            class="image"
+          />
+        </picture>
+
         <section class="content">
           <h4 class="product">PERFUME</h4>
           <h1 class="title">Gabrielle Essence Eau De Parfum</h1>
