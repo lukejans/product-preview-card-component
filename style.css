@@ -109,6 +109,7 @@ body {
   }
   picture {
     max-width: 370px;
+    max-height: 240px;
   }
   .image {
     border-radius: 0.75rem 0.75rem 0 0;
